@@ -1,3 +1,4 @@
+<h1>hamza</h1>
 import { Button } from "@/components/ui/button";
 import { Layout } from "@/components/layout";
 import { CourseCard } from "@/components/ui/course-card";
